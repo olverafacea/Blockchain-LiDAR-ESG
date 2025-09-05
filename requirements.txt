@@ -1,0 +1,9 @@
+# Python dependencies for Blockchain–LiDAR ESG framework
+numpy
+pandas
+matplotlib
+geopandas
+laspy
+shapely
+scikit-learn
+jupyter
