@@ -1,22 +1,27 @@
-# Blockchain–LiDAR Framework for ESG Verification in Forestry SMEs
+# 🌲 Blockchain–LiDAR Framework for ESG Verification in Forestry SMEs  
+_A Blockchain-LiDAR Framework for ESG Verification in Forestry SMEs: Addressing Cascading Barriers under EUDR and VCS/CCB Standards_
 
-This repository contains the code and notebooks accompanying the manuscript:
-**"A Blockchain–LiDAR Framework for ESG Verification in Forestry SMEs: Addressing Cascading Barriers under EUDR and VCS/CCB Standards"**.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
 
-## Contents
-- `notebooks/` : Jupyter notebooks for LiDAR processing, biomass estimation, and blockchain event parsing.
-- `src/` : Python modules implementing the core framework.
-- `docs/` : Data dictionary and ESG audit protocols.
-- `figures/` : Workflow diagrams and comparative tables.
-- `data/` : Small sample datasets (large datasets hosted on Zenodo).
+---
 
-## Data Availability
-Large datasets and full documentation are available on Zenodo (DOI: to be activated). 
-This repository includes only small sample files to illustrate reproducibility of workflows.
+## 📖 Descripción
+Este repositorio contiene el código, documentación y recursos del marco **Blockchain–LiDAR** desarrollado para la verificación de criterios ESG en **PYMEs forestales**.  
+El framework integra:
+- **Datos LiDAR 3D (10 pts/m²)** → estimaciones de biomasa en tiempo real.  
+- **Hyperledger Fabric (latencia <3s)** → validación y trazabilidad blockchain.  
 
-## Citation
-If you use this work, please cite both the associated manuscript and the Zenodo release. 
-See `CITATION.cff` for details.
+📌 Objetivo: **reducir costos y tiempos de auditoría** bajo los estándares **EUDR** y **VCS/CCB**.  
 
-## License
-Code is distributed under the Apache License, Version 2.0. See the `LICENSE` file.
+---
+
+## ⚙️ Requisitos
+- Python 3.10+  
+- LiDAR dataset (ejemplo: Zenodo DOI:10.5281/zenodo.123456)  
+- Hyperledger Fabric 2.5  
+- Dependencias listadas en `requirements.txt`  
+
+Instalación de dependencias:
+```bash
+pip install -r requirements.txt
+
