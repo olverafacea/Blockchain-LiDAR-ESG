@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A Blockchain–LiDAR Framework for ESG Verification in Forestry SMEs: Addressing Cascading Barriers under EUDR and VCS/CCB Standards"
+authors:
+  - family-names: "Vera González"
+    given-names: "Oscar Lorenzo"
+    affiliation: "Departamento de Post Grado – Facultad de Ciencias Económicas y Administrativas, Universidad Nacional de Itapúa, Encarnación, Paraguay"
+    email: "olvera@facea.uni.edu"
+    orcid: "https://orcid.org/0009-0002-6346-8877"
+keywords:
+  - Blockchain
+  - LiDAR
+  - ESG verification
+  - forestry SMEs
+  - EUDR
+  - VCS/CCB
+  - compliance automation
+  - cost reduction
+license: "Apache-2.0"
+repository-code: "https://github.com/olverafacea/Blockchain-LiDAR-ESG"
+version: "1.0.0"
+date-released: "2025-09-06"
+doi: "10.5281/zenodo.xxxxxxx"   # ← Aquí irá el DOI definitivo de Zenodo
+preferred-citation:
+  type: article
+  title: "A Blockchain–LiDAR Framework for ESG Verification in Forestry SMEs: Addressing Cascading Barriers under EUDR and VCS/CCB Standards"
+  authors:
+    - family-names: "Vera González"
+      given-names: "Oscar Lorenzo"
+  journal: "To be submitted (Q1 Journal)"
+  year: 2025
+  doi: "10.5281/zenodo.xxxxxxx"
